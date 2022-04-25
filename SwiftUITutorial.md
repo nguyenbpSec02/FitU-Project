@@ -2,7 +2,8 @@
 Created by Andrew Tran and Brandon Nguyen
 
 ## Overview
-
+SwiftUI is a user interface tool kit that makes swift easier to use. Allows users to create apps using the swift language with less amount of code. In collaboration with a UX Designer, Andrew and I wanted to make an app that allows beginners that are just now starting their fitness journey to workout with confidence. The app creates a workout program catered towards the users' wants and needs and provides videos on how to correctly perform the intended workout with good use of form and equipment. 
+Demo: Step 1
 
 
 ## Getting Started
